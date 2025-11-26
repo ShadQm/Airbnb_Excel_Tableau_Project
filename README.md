@@ -15,18 +15,18 @@ The dataset contains property-level information including:
 ## 📅 Period Covered: Full yearly cycle (Monthly calendar data)
 
 ## ❓ Key Questions (KPIs)
-## 💰 Pricing Insights
+### 💰 Pricing Insights
 
 - Which zipcodes have the highest average listing price?
 - How does the average calendar price change month to month?
 - What is the price variation by bedroom count?
 
-## 🏘️ Supply Insights
+### 🏘️ Supply Insights
 
 - Which bedroom category has the highest number of listings?
 - How does listing count shift across bedroom sizes?
 
-## 🌍 Geographical Insights
+### 🌍 Geographical Insights
 
 - Which neighborhoods show the strongest pricing clusters?
 - How does price vary geographically on the map?
