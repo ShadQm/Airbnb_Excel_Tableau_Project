@@ -7,36 +7,29 @@ Analyze Airbnb pricing patterns, monthly trends, geographical distribution, and 
 
 The dataset contains property-level information including:
 
-Zipcodes & Geographic Coordinates
-
-Monthly Calendar Prices
-
-Bedroom Count & Listing Count
-
-Property Attributes (Beds, Bedrooms, etc.)
+- Zipcodes & Geographic Coordinates
+- Monthly Calendar Prices
+- Bedroom Count & Listing Count
+- Property Attributes (Beds, Bedrooms, etc.)
 
 ## 📅 Period Covered: Full yearly cycle (Monthly calendar data)
 
 ## ❓ Key Questions (KPIs)
 ## 💰 Pricing Insights
 
-Which zipcodes have the highest average listing price?
-
-How does the average calendar price change month to month?
-
-What is the price variation by bedroom count?
+- Which zipcodes have the highest average listing price?
+- How does the average calendar price change month to month?
+- What is the price variation by bedroom count?
 
 ## 🏘️ Supply Insights
 
-Which bedroom category has the highest number of listings?
-
-How does listing count shift across bedroom sizes?
+- Which bedroom category has the highest number of listings?
+- How does listing count shift across bedroom sizes?
 
 ## 🌍 Geographical Insights
 
-Which neighborhoods show the strongest pricing clusters?
-
-How does price vary geographically on the map?
+- Which neighborhoods show the strongest pricing clusters?
+- How does price vary geographically on the map?
 
 ## 🔧 Process
 ### 1. Data Cleaning
